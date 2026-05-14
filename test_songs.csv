@@ -9,3 +9,4 @@ test1, , English, {'0:00':'english practice \n 일본어 연습', '0:08':'test \
 test2, , English, {'0:00':'english test \n 일본어 연습', '0:08':'test1 \n 매일 공부합니다'}
 test3, , English, {'0:00':'guess what \n 일본어 연습', '0:08':'testtest \n 매일 공부합니다'}
 test4, https://youtu.be/liatabv6fXY?si=eG5qBrp3eNQ8eIr_, English, {'0:00':'guess what \n 일본어 연습', '0:08':'real test \n 매일 공부합니다'}
+T2(The), https://youtu.be/yMwDXZMhnRY?si=QYsGDe4-vdF1FVdL, English, {'0:00':'what r e \n test', '0:05':'help me \n 도와줘'}
