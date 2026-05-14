@@ -1,5 +1,30 @@
 title, url, Language, Syn Num & Syn Text, mp3
-T1(The Perfect Meeting), https://youtu.be/0CKxZTckTHY?si=QRuPHMChZHaA4vWz, English, {'0:17':'Step into the venue, it's time to convene, \n (행사) 장소로 들어와, 이제 회의를 소집할 시간이야,', '0:23':'We designate the chair to lead the scene. \n 우리는 이 자리를 이끌 의장을 지명하지.', '0:27':'Every participant is ready and meant, \n 모든 참가자는 준비되어 있고 열의가 넘쳐,', '0:31':'Looking around, not a single one is absent. \n 주위를 둘러봐, 결석한 사람은 단 한 명도 없어.', '0:35':'Follow the protocol, distribute the plan, \n 의전(규약)을 따르고, 계획을 배포해,', '0:39':'The agenda is clear since the day began. \n 안건(의제)은 오늘 하루가 시작될 때부터 명확했지.', '0:44':'Listen to the keynote at this grand symposium, \n 이 웅장한 심포지엄에서 기조연설을 들어봐,', '0:48':'It's an inspiring session, let's build the momentum. \n 영감을 주는 시간(세션)이야, 분위기를 끌어올려보자.', '0:52':'Our main objective is to collaborate, \n 우리의 주된 목표는 협력하는 것,', '0:56':'Let's brainstorm ideas, it’s never too late. \n 브레인스토밍을 해보자, 절대 늦지 않았어.', '1:00':'We seek a consensus, a vision so bright, \n 우리는 아주 밝은 비전인 의견 일치(합의)를 추구해,', '1:04':'A unanimous choice to make everything right. (to make everything right.) \n 모든 걸 올바르게 만들 만장일치의 선택을. (모든 걸 올바르게 만들..)', '1:13':'Now starts the presentation, a quick briefing too, \n 이제 프레젠테이션이 시작되고, 짧은 브리핑(보고)도 이어져,', '1:17':'I’ll facilitate the talk and coordinate with you. \n 내가 대화를 원활하게 진행하고 너와 조정할게.', '1:21':'If you need me to clarify, just raise your hand, \n 내가 명확하게 해주길 원한다면, 그냥 손을 들어,', '1:25':'Please don't interrupt, just raise your hand, \n 방해하지는 말고, 그냥 손을 들어,', '1:29':'Please don't interrupt, so we all understand. \n 방해하지는 말아줘, 우리 모두 이해할 수 있게.', '1:35':'We cannot postpone, we shouldn't adjourn, \n 우리는 연기할 수 없고, 휴회해서도 안 돼,', '1:40':'Take a quick breath, then we resume and learn. \n 짧게 숨을 고른 뒤, 우리는 재개하고 배워가지.', '1:49':'Time to summarize what we did today, \n 오늘 우리가 한 일을 요약할 시간이야,', '1:53':'Give me your feedback, (what do you say?) \n 너의 피드백(의견)을 줘, (어떻게 생각해?)', '1:56':'Write down the minutes, fill up the cup,(fill up the cup,) \n 회의록을 작성하고, 컵을 채워. (컵을 채워)', '2:01':'Great job everyone, now let's wrap up! \n 모두 수고했어, 이제 마무리 짓자!', '2:20':'now let's wrap up! \n 이제 마무리 짓자!'}, https://github.com/jins74/recom/raw/refs/heads/main/The_perfect_Meeting.mp3
+T1(The Perfect Meeting), https://youtu.be/0CKxZTckTHY?si=QRuPHMChZHaA4vWz, English, {
+  "0:17": "Step into the venue, it's time to convene, \n (행사) 장소로 들어와, 이제 회의를 소집할 시간이야,",
+  "0:23": "We designate the chair to lead the scene. \n 우리는 이 자리를 이끌 의장을 지명하지.",
+  "0:27": "Every participant is ready and meant, \n 모든 참가자는 준비되어 있고 열의가 넘쳐,",
+  "0:31": "Looking around, not a single one is absent. \n 주위를 둘러봐, 결석한 사람은 단 한 명도 없어.",
+  "0:35": "Follow the protocol, distribute the plan, \n 의전(규약)을 따르고, 계획을 배포해,",
+  "0:39": "The agenda is clear since the day began. \n 안건(의제)은 오늘 하루가 시작될 때부터 명확했지.",
+  "0:44": "Listen to the keynote at this grand symposium, \n 이 웅장한 심포지엄에서 기조연설을 들어봐,",
+  "0:48": "It's an inspiring session, let's build the momentum. \n 영감을 주는 시간(세션)이야, 분위기를 끌어올려보자.",
+  "0:52": "Our main objective is to collaborate, \n 우리의 주된 목표는 협력하는 것,",
+  "0:56": "Let's brainstorm ideas, it’s never too late. \n 브레인스토밍을 해보자, 절대 늦지 않았어.",
+  "1:00": "We seek a consensus, a vision so bright, \n 우리는 아주 밝은 비전인 의견 일치(합의)를 추구해,",
+  "1:04": "A unanimous choice to make everything right. (to make everything right.) \n 모든 걸 올바르게 만들 만장일치의 선택을. (모든 걸 올바르게 만들..)",
+  "1:13": "Now starts the presentation, a quick briefing too, \n 이제 프레젠테이션이 시작되고, 짧은 브리핑(보고)도 이어져,",
+  "1:17": "I’ll facilitate the talk and coordinate with you. \n 내가 대화를 원활하게 진행하고 너와 조정할게.",
+  "1:21": "If you need me to clarify, just raise your hand, \n 내가 명확하게 해주길 원한다면, 그냥 손을 들어,",
+  "1:25": "Please don't interrupt, just raise your hand, \n 방해하지는 말고, 그냥 손을 들어,",
+  "1:29": "Please don't interrupt, so we all understand. \n 방해하지는 말아줘, 우리 모두 이해할 수 있게.",
+  "1:35": "We cannot postpone, we shouldn't adjourn, \n 우리는 연기할 수 없고, 휴회해서도 안 돼,",
+  "1:40": "Take a quick breath, then we resume and learn. \n 짧게 숨을 고른 뒤, 우리는 재개하고 배워가지.",
+  "1:49": "Time to summarize what we did today, \n 오늘 우리가 한 일을 요약할 시간이야,",
+  "1:53": "Give me your feedback, (what do you say?) \n 너의 피드백(의견)을 줘, (어떻게 생각해?)",
+  "1:56": "Write down the minutes, fill up the cup,(fill up the cup,) \n 회의록을 작성하고, 컵을 채워. (컵을 채워)",
+  "2:01": "Great job everyone, now let's wrap up! \n 모두 수고했어, 이제 마무리 짓자!",
+  "2:20": "now let's wrap up! \n 이제 마무리 짓자!"
+}, https://github.com/jins74/recom/raw/refs/heads/main/The_perfect_Meeting.mp3
 test, https://youtu.be/yMwDXZMhnRY?si=QYsGDe4-vdF1FVdL, English, {'0:00':'what r e \n test', '0:05':'help me \n 도와줘'}, https://github.com/jins74/recom/raw/refs/heads/main/addicted_to_fire.mp3
 jpt, https://youtu.be/dQw4w9WgXcQ, Japanese, {'0:00':'さくら さくら \n 벚꽃 벚꽃', '0:10':'やよいの空は \n 3월의 하늘은', '0:20':'見渡す限り \n 눈 닿는 한', '0:30':'かすみか雲か \n 안개인가 구름인가'}
 bonjour, https://youtu.be/L_jWHffIx5E, French, {'0:00':'Bonjour le monde \n 안녕 세상', '0:08':'Comment ça va \n 어떻게 지내', '0:16':'Très bien merci \n 아주 잘 지내요 감사해요'}
